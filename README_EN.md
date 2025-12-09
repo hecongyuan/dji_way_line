@@ -10,6 +10,10 @@ A DJI drone waypoint planning tool based on Vue 3 + CesiumJS, supporting the gen
 
 > 📢 **Open Source Note**: This project will be officially open-sourced when it reaches **100 Stars**! Your **Star** is our motivation! 🚀
 
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hecongyuan/dji_way_line&type=Date)](https://star-history.com/#hecongyuan/dji_way_line&Date)
+
 ## 🎨 Interface Preview
 
 ### Main Interface

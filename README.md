@@ -11,6 +11,9 @@
 
 > 📢 **开源说明**：本项目将在 **Star 达到 100** 时正式开源！您的 **Star** 是我们开源的动力！ 🚀
 
+## ⭐ Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hecongyuan/dji_way_line&type=Date)](https://star-history.com/#hecongyuan/dji_way_line&Date)
 
 ## 🎨 界面预览
 
