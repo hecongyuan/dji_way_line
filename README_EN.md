@@ -2,7 +2,7 @@
 
 A DJI drone waypoint planning tool based on Vue 3 + CesiumJS, supporting the generation of KMZ waypoint files compatible with WPML 1.0.6 standard. These files can be directly imported into DJI FlightHub 2 and Matrice series drones.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
 ![Vue](https://img.shields.io/badge/Vue-3.5-brightgreen.svg)
 ![Cesium](https://img.shields.io/badge/Cesium-1.135-blue.svg)
 
@@ -41,7 +41,7 @@ Each height mode has a corresponding schematic:
 ## 📅 Roadmap
 
 - ✅ **Patrol Route Generation & FlightHub 2 Compatibility**
-- [ ] **Matrice 4T Real-world Testing**: Verify flight and AI recognition functions in actual environments.
+- ✅ **Matrice 4T Real-world Testing**: Verified flight and photography functions in actual environments with Matrice 4T.
 - [ ] **AI Patrol Integration**:
    - [ ] Real-time target recognition (Person, Vehicle, Boat, etc.).
    - [ ] Save recognition results (Images/Videos) to drone storage.
@@ -306,7 +306,31 @@ A: Decreasing scan spacing or increasing overlap will increase waypoints. Recomm
 
 ## 📄 License
 
-MIT License
+This project is licensed under the **GPL-3.0 License** (GNU General Public License v3.0).
+
+### Key Permissions
+
+- ✅ **Commercial Use**: Commercial use is allowed
+- ✅ **Modification**: Modification of source code is allowed
+- ✅ **Distribution**: Distribution of original or modified versions is allowed
+- ✅ **Patent Grant**: Provides explicit patent grant
+- ✅ **Private Use**: Private use and modification is allowed
+
+### Conditions
+
+- ⚠️ **Same License**: Derivative works must use the same GPL-3.0 license
+- ⚠️ **Open Source Requirement**: Must provide complete source code when distributing
+- ⚠️ **Copyright Notice**: Must retain original author's copyright notice and license information
+- ⚠️ **State Changes**: Must document modifications when files are changed
+
+### Why GPL-3.0?
+
+1. **Protect Open Source Ecosystem**: Ensures derivative works remain open source, preventing closed-source commercial use
+2. **Patent Protection**: GPL-3.0 provides explicit patent grants, protecting users from patent litigation
+3. **Promote Sharing**: Encourages developers to share improvements and advance the project together
+4. **DRM Restriction**: Prohibits using DRM (Digital Rights Management) to restrict user rights
+
+For full license text, please see the [LICENSE](./LICENSE) file.
 
 ## 🤝 Contribution
 
