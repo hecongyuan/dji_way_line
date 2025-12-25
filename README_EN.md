@@ -362,4 +362,4 @@ Issues and Pull Requests are welcome!
 
 Welcome to join the DJI Waypoint Generator community group! Connect with other developers and users, share route planning tips, exchange experiences, and stay updated with the latest features!
 
-<img src="doc/images/IMG_5215.JPG" width="300" alt="Community Group QR Code">
+<img src="doc/images/sq.JPG" width="300" alt="Community Group QR Code">
