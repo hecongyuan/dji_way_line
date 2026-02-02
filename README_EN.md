@@ -352,7 +352,7 @@ Issues and Pull Requests are welcome!
 
 ## 📧 Contact
 
-- **WeChat**: `hecongyuan2025`
+- **WeChat**: `hecongyuan2026`
 - **Email**: `h285121973@gmail.com`
 - **Feedback**: Submit via GitHub Issues
 
