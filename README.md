@@ -347,6 +347,8 @@ A: 减小扫描间距或增大重叠率会增加航点数。建议：
 - **Email**：`h285121973@gmail.com`
 - **问题反馈**：通过 GitHub Issues 提交
 
+**扫码加作者微信进入社群，备注 `dji_way_line`**
+
 <img src="doc/images/wechat_qr.jpg" width="200" alt="微信二维码">
 
 ## 👥 社区交流群

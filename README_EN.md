@@ -356,6 +356,8 @@ Issues and Pull Requests are welcome!
 - **Email**: `h285121973@gmail.com`
 - **Feedback**: Submit via GitHub Issues
 
+**Scan the QR code to add the author's WeChat to join the community, please remark `dji_way_line`**
+
 <img src="doc/images/wechat_qr.jpg" width="200" alt="WeChat QR Code">
 
 ## 👥 Community Group
